@@ -1,0 +1,16 @@
+body{
+    font-family: consolas;    
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr td{    
+    border: 1px solid black;       
+}
+.colheading{
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
